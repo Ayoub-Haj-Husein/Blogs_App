@@ -1,0 +1,27 @@
+{
+  "name": "tasks_app",
+  "version": "1.0.0",
+  "description": "This app for daily tasks ",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayoub-Haj-Husein/TASKS_APP"
+  },
+  "keywords": [
+    "tasks",
+    "daily",
+    "to-do",
+    "organization"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayoub Husein",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
